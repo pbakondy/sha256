@@ -24,6 +24,12 @@ var sha256 = require('tiny-sha256');
 var jsCode = sha256.code + 'alert(sha256("hello!"));';
 ```
 
+## Bower install
+
+```javascript
+bower install tiny-sha256
+```
+
 ## License
 
 This library is released as "public domain".  You can copy, modify, re-release and re-license, or incorporate into any other project without restriction of any kind.
